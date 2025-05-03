@@ -1,7 +1,6 @@
 # Rafael Marvila
 
 **Data Architect | AI Developer | LLM Engineering**  
-Working remotely from Brazil with global teams.
 
 ---
 
