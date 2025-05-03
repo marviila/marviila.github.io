@@ -25,7 +25,7 @@ No buzzwords. No overengineering. I build things that work.
 
 ### Contact
 
-- 📫 Email: [rafaelmarviila@gmail.com](mailto:rafaelmarviila@gmail.com)  
+- 📫 Email: [rafaelmarviila@gmail.com](mailto:send.to.marvila@gmail.com)  
 - 🔗 LinkedIn: [rafael-marvila-abb9347a](https://www.linkedin.com/in/rafael-marvila-abb9347a)
 
 ---
