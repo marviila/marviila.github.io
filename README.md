@@ -1,31 +1,34 @@
 # Rafael Marvila
 
-**Data Architect · AI Developer · LLM & Cloud Engineer**  
-📍 Based in Brazil | Remote-first | Focused on solid architecture, stable pipelines, and efficient AI-driven solutions.
+**Data Architect | AI Developer | LLM Engineering**  
+Working remotely from Brazil with global teams.
 
 ---
 
-### 🧩 About
+### About
 
-Currently working as a Data Architect at **HealthEquity**, with over 10 years of experience building data platforms for companies like PepsiCo, American Airlines, Petlove, and others.
+I currently lead data architecture initiatives at **HealthEquity**, where I focus on building scalable platforms, integrating large language models, and enabling automation through reliable cloud-based systems.
 
-I focus on reliable architecture, scalable pipelines, and practical use of LLMs — no overengineering, just delivering.
+My background spans more than a decade, supporting data strategy and engineering across industries — with practical experience at companies like PepsiCo, American Airlines, and Petlove.
 
----
-
-### 🧠 Stack
-
-- Databricks · Azure · Synapse · Spark  
-- Python · SQL · Airflow · LLMs  
-- GitHub Actions · CI/CD · Cloud Engineering
+No buzzwords. No overengineering. I build things that work.
 
 ---
 
-### 📬 Contact
+### Core Expertise
 
-- 📧 [rafaelmarviila@gmail.com](mailto:rafaelmarviila@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/rafael-marvila-abb9347a)
+- **LLMs & Applied AI** — prompt orchestration, embedding pipelines, LangChain, vector search
+- **Databricks** — scalable lakehouses, job orchestration, delta tables, cluster automation
+- **Azure Ecosystem** — Synapse, ADF, Azure DevOps (pipelines, repos, releases)
+- **Engineering Mindset** — Python, SQL, CI/CD, versioning, observability
 
 ---
 
-> I’m not trying to impress. Just doing good work — and staying sharp.
+### Contact
+
+- 📫 Email: [rafaelmarviila@gmail.com](mailto:rafaelmarviila@gmail.com)  
+- 🔗 LinkedIn: [rafael-marvila-abb9347a](https://www.linkedin.com/in/rafael-marvila-abb9347a)
+
+---
+
+_“No need to shout to be good. Quiet delivery, clean design, and consistency speak for themselves.”_
