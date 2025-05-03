@@ -3,25 +3,46 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Rafael Marvila</title>
+  <title>Rafael Marvila | Data Architect</title>
   <style>
-    body {
-      font-family: 'Segoe UI', sans-serif;
-      background-color: #f9f9f9;
-      color: #2b2b2b;
-      line-height: 1.6;
-      padding: 20px;
-      max-width: 800px;
-      margin: auto;
+    :root {
+      --bg: #f9f9fb;
+      --fg: #1e1e1e;
+      --accent: #0177ff;
+      --font-main: 'Segoe UI', sans-serif;
     }
 
-    h1, h2, h3 {
-      color: #111;
-      margin-bottom: 8px;
+    body {
+      background-color: var(--bg);
+      color: var(--fg);
+      font-family: var(--font-main);
+      margin: 0;
+      padding: 2rem;
+      max-width: 800px;
+      margin-left: auto;
+      margin-right: auto;
+      line-height: 1.7;
+    }
+
+    h1 {
+      font-size: 2.4rem;
+      font-weight: 600;
+      margin-bottom: 0.2rem;
+    }
+
+    h2 {
+      font-size: 1.5rem;
+      border-bottom: 2px solid #e2e2e2;
+      padding-bottom: 0.2rem;
+      margin-top: 2rem;
+    }
+
+    p {
+      font-size: 1.05rem;
     }
 
     a {
-      color: #007acc;
+      color: var(--accent);
       text-decoration: none;
     }
 
@@ -29,52 +50,55 @@
       text-decoration: underline;
     }
 
-    code {
-      background: #eee;
-      padding: 2px 4px;
-      border-radius: 4px;
-      font-size: 90%;
+    ul {
+      padding-left: 1.2rem;
     }
 
-    .quote {
+    blockquote {
+      margin: 1.5rem 0;
+      padding-left: 1rem;
+      border-left: 3px solid #ccc;
       font-style: italic;
       color: #555;
-      border-left: 4px solid #ddd;
-      padding-left: 12px;
-      margin: 12px 0;
+    }
+
+    .signature {
+      margin-top: 3rem;
+      font-size: 0.95rem;
+      color: #888;
     }
   </style>
 </head>
 <body>
   <h1>Rafael Marvila</h1>
-  <p style="margin-top:-10px; font-size: 1.1rem; color:#555">Data Architect · AI Practitioner · Builder</p>
-
-  <hr/>
+  <p><strong>Data Architect · AI Developer · LLM & Cloud Engineer</strong></p>
 
   <h2>About me</h2>
-  <p>Hey, I'm Rafael. I'm currently working as a Data Architect at <strong>HealthEquity</strong>. I've been on this road for over a decade — building systems, shaping data platforms, and making sure things don't break when they shouldn't.</p>
+  <p>I’m currently leading architecture efforts at <strong>HealthEquity</strong>, shaping scalable data platforms and applying AI where it matters. I've spent the last decade doing work that connects data engineering to real-world impact. No hype. No excess. Just systems that work.</p>
 
-  <p>Already worked with PepsiCo, American Airlines, Petlove, and others. I try to keep things practical. I like it when things just work — stable, fast, and clean.</p>
+  <p>I’ve worked with teams across PepsiCo, American Airlines, Petlove and more — always focused on delivering value through engineering discipline, automation, and thoughtful architecture.</p>
 
+  <h2>My Core Stack</h2>
   <ul>
-    <li>🔹 Tools I use a lot: Databricks, Azure, Synapse, Spark, Python, SQL</li>
-    <li>💬 Language game: PT-BR · EN (fluent) · FR (just enough to survive)</li>
-    <li>🌍 Living in Brazil · Working from anywhere</li>
+    <li><strong>LLMs & Applied AI:</strong> Embeddings · LangChain · Vector Search · Prompt Engineering</li>
+    <li><strong>Databricks:</strong> Delta Lakes · Workflow Orchestration · Cluster Automation</li>
+    <li><strong>Azure:</strong> Synapse · Data Factory · Azure DevOps · CI/CD pipelines</li>
+    <li><strong>Code & Process:</strong> Python · SQL · GitHub Actions · Testing & Monitoring</li>
   </ul>
 
-  <h2>What I believe</h2>
-  <div class="quote">
-    "You don’t need to be loud to make impact. Clean code, clear vision, calm mind — that’s the game."
-  </div>
+  <h2>How I Think</h2>
+  <blockquote>
+    "I’m not interested in building things that look smart. I’m interested in building things that last."
+  </blockquote>
 
-  <p>Sometimes I explore LLMs and AI projects. Sometimes I build pipelines that just move data from A to B — but do it well. I like both sides.</p>
+  <p>My work is guided by clarity and simplicity. I believe architecture should serve the product, not inflate it. I like things that are clean, quiet, and solid.</p>
 
-  <h2>Contact</h2>
+  <h2>Let’s connect</h2>
   <ul>
     <li>Email: <a href="mailto:rafaelmarviila@gmail.com">rafaelmarviila@gmail.com</a></li>
     <li>LinkedIn: <a href="https://www.linkedin.com/in/rafael-marvila-abb9347a">rafael-marvila-abb9347a</a></li>
   </ul>
 
-  <p>I'm not trying to impress anyone — just doing good work and staying sharp. If you're building something interesting, I'm always open to talk.</p>
+  <p class="signature">This site runs on HTML only — because minimalism is a feature, not a lack.</p>
 </body>
 </html>
